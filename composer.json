@@ -1,5 +1,5 @@
 {
-    "name":        "novalnet/module-payment",
+    "name":        "suyamburaja/oxid",
     "description": "N/A",
     "type":        "oxideshop-module",
     "keywords":    [
